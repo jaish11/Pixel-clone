@@ -1,5 +1,6 @@
-Live Srver :
+Live Server:
 https://pixel-clone.onrender.com/
+![Screenshot 2024-05-05 130309](https://github.com/jaish11/Pixel-clone/assets/101746765/e6df35cb-fb5d-40aa-b078-0c45e9231df8)
 
 # Getting Started with Create React App
 
